@@ -32,3 +32,5 @@
 
 :pig:
 :airplane:
+
+![nkust](nkust.png "高科大 LOGO")
