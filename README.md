@@ -104,7 +104,7 @@
 ![安安廢物](系統循序圖.png "安安廢物")
 
 # 系統強韌圖
-![安安廢物](RobustnessDiagram.png "安安廢物")
+![安安廢物](Robustness%20Diagram.png "安安廢物")
 
 # Map循序圖
 ![安安廢物](Map循序圖.png "安安廢物")
