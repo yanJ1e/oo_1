@@ -105,6 +105,15 @@
 # Player and Enemy 初步類別圖
 ![安安廢物](Player&Enemy類別圖.png "安安廢物")
 
+# Map 初步類別圖
+![安安廢物](Map類別圖.png "安安廢物")
+
+# Save 初步類別圖
+![安安廢物](Save類別圖.png "安安廢物")
+
+# Dialogue 初步類別圖
+![安安廢物](Dialogue類別圖.png "安安廢物")
+
 # 系統循序圖
 ![安安廢物](系統循序圖.png "安安廢物")
 
